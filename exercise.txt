@@ -1,0 +1,22 @@
+
+1. Explain what the terminal is in your own words.
+
+A: It's the interface in our computer that allows us to move  
+quicker and unlock more capabilties during devlopment
+
+
+2. What is the major difference between Git and GitHub?
+
+A: Git is version control, this is how the code is tracked. Github adds    
+additinal features on top of that like collab or repository UI
+
+
+
+3.  What are the steps to fork a GitHub repository?
+
+A:      
+1. Open the GitHub page of the repository you want to fork
+
+2. Click the Fork button at the top right corner 
+
+3. copy url from code button, then "git clone {pasted url}" into terminal
